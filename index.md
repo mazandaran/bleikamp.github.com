@@ -3,7 +3,7 @@ title: Ben Bleikamp — Internet Builder
 layout: page
 ---
 
-I am Ben Bleikamp. I am from Ohio, I live San Francisco, and a I'm designer at
+I am Ben Bleikamp. I am from Ohio, I live San Francisco, and I'm a designer at
 [GitHub](http://github.com).
 
 ### Contact me
