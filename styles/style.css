@@ -288,6 +288,7 @@ time {
 ul {
   list-style: disc;
   padding: 0 0 0 20px;
+  -webkit-font-smoothing: antialiased;
 }
 
 li {
