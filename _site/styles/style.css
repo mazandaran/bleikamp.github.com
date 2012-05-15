@@ -252,7 +252,6 @@ p {
   margin: 0 0 24px 0;
   font-size: 16px;
   line-height: 1.5; /* 24 / 16 = 1.5 */
-  font-family: "inconsolata-1", "inconsolata-2";
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
 }
@@ -261,7 +260,6 @@ blockquote {
   margin: 0 0 24px 0;;
   padding: 0 0 0 24px;
   border-left: 3px solid #e1ebf5;
-  font-family: "inconsolata-1", "inconsolata-2";
   font-size: 16px;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -292,7 +290,6 @@ ul {
 }
 
 li {
-  font-family: 'inconsolata-1', 'inconsolata-2';
   font-size: 16px;
   line-height: 1.5;
 }
