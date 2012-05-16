@@ -6,9 +6,13 @@ layout: page
 I am Ben Bleikamp. I am from Ohio, I live San Francisco, and I'm a designer at
 [GitHub](http://github.com).
 
-### Contact me
+### Socialize with me
 
 I respond to almost every tweet: [@bleikamp](http://twitter.com/bleikamp)
+
+I post some shots of my work on [Dribbble](http://dribbbble.com/bleikamp)
+
+Once in a while I commit things on [GitHub](http://github.com/bleikamp)
 
 ### Stuff I Use
 
